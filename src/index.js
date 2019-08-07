@@ -8,6 +8,7 @@ import thunk from 'redux-thunk';
 import './index.css';
 import App from './App';
 import userReducer from './store/reducers/user';
+import registerServiceWorker from './registerServiceWorker';
 
 const composeEnhancers = process.env.NODE_ENV === 'development' ? window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ : null || compose;
 
@@ -28,3 +29,4 @@ const app = (
 );
 
 ReactDOM.render( app, document.getElementById( 'root' ) );
+registerServiceWorker();

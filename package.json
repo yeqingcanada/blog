@@ -1,12 +1,12 @@
 {
-  "name": "client",
+  "name": "qing-s-blog",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://yeqingcanada.github.io/qing-s-blog/",
   "dependencies": {
     "axios": "^0.18.0",
     "bootstrap": "^4.3.1",
-    "gh-pages": "^2.1.0",
+    "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-datepicker": "^2.5.0",
     "react-dom": "^16.8.6",
