@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fbb671491239d867c839aa089da34540",
+    "revision": "188b28c8bcfa92ab41b17dfc2bcc6b38",
     "url": "/qing-s-blog/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/qing-s-blog/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "8b921e7e72e1e2eecbb8",
+    "revision": "808d927286af72c02e9e",
     "url": "/qing-s-blog/static/css/main.c66f9e5f.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/qing-s-blog/static/js/4.22ec7aac.chunk.js"
   },
   {
-    "revision": "8b921e7e72e1e2eecbb8",
-    "url": "/qing-s-blog/static/js/main.d6f8704d.chunk.js"
+    "revision": "808d927286af72c02e9e",
+    "url": "/qing-s-blog/static/js/main.8cf39c0b.chunk.js"
   },
   {
     "revision": "91bd2015ecd33f0b9adb",
